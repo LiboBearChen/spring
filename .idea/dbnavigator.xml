@@ -24,16 +24,11 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="false" />
-    <loaded-nodes>
-      <connection connection-id="a2e27a6a-02b4-44fc-be23-4914606df029">
-        <schema name="pg_catalog" object-types="table, view, function" />
-        <schema name="public" object-types="table, view, sequence, function" />
-      </connection>
-    </loaded-nodes>
+    <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="a2e27a6a-02b4-44fc-be23-4914606df029">
-      <console name="Connection" type="STANDARD" schema="public" session="Main">select * from student;</console>
+      <console name="Connection" type="STANDARD" schema="public" session="Main"><![CDATA[select * from student;]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
